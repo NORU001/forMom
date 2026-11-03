@@ -1,0 +1,7 @@
+# Python 3.11 or 3.12 recommended
+# Install: python -m pip install -r requirements.txt
+# Run: streamlit run app.py
+streamlit==1.45.1
+folium==0.19.5
+streamlit-folium==0.25.0
+requests==2.32.4
