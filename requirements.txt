@@ -1,3 +1,0 @@
-streamlit>=1.40.0,<2.0.0
-streamlit-mic-recorder==0.0.8
-SpeechRecognition>=3.10.0,<4.0.0
